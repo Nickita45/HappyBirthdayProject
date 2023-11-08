@@ -13,8 +13,11 @@ public class TextTypingEffect : MonoBehaviour
     private int currentIndex = 0;
     private bool isTextFullyDisplayed = false;
     public Button buttonNext;
-
+    public TextMeshProUGUI nameCharacter;
+    public Image characterImage;
     public Image imageBackground;
+    public Button[] buttonAnswers;
+    public GameObject answersPanel;
     private void Start()
     {
         // textMeshPro = GetComponent<TextMeshProUGUI>();
@@ -22,9 +25,23 @@ public class TextTypingEffect : MonoBehaviour
     }
     public void playDisplayText()
     {
+        answersPanel.SetActive(false);
         currentIndex = 0;
         currentText = "";
         StartCoroutine(DisplayText());
+        characterImage.gameObject.SetActive(true);
+        buttonNext.gameObject.SetActive(false);
+        
+        if(characterImage.sprite == null)
+            characterImage.gameObject.SetActive(false);
+    }
+    public void playAnswersText(string[] answers)
+    {
+        answersPanel.SetActive(true);
+        for(int i=0;i<buttonAnswers.Length;i++)
+        {
+            buttonAnswers[i].GetComponentInChildren<TextMeshProUGUI>().text = answers[i];
+        }
         buttonNext.gameObject.SetActive(false);
     }
     private IEnumerator DisplayText()

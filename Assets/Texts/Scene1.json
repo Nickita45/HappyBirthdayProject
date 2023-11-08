@@ -3,22 +3,56 @@
         {
             "author": "Лиза",
             "text": "Чат, всем, привет. я новенький я очень ранимый и замкнутый в себе человек, я плохо лажу с людьми и люблю быть в одиночестве. не могли бы вы сделать мне одолжение и все разом выйти с чата, чтобы я остался здесь один?",
-            "src": "railstationMain"
+            "src": "railstationMain",
+            "characters": "none"
         },
         {
             "author": "Лиза",
             "text": "Блин, я ж еду в Одессу! Точно! Нужно посмотреть на табле какая у меня колия.",
-            "src": "railstationMain"
+            "src": "railstationMain",
+            "characters": "none"
         },
         {
             "author": "Лиза",
-            "text": "Ага, вторая колия!",
-            "src": "railstationHub"
+            "text": "Хммм, что то ничего не понятно, почему моего поезда нет в распи.... ",
+            "src": "railstationHub",
+            "characters": "none"
+        },
+        {
+            "author": "Неизвестный",
+            "text": "Твой поезд на 2 колеи...",
+            "src": "railstationHub",
+            "characters": "Douma"
         },
         {
             "author": "Лиза",
-            "text": "Вау, впервые вижу подобный поезд, это видимо новые натовские разработки.",
-            "src": "railstationRoad"
+            "text": "Спасибо.|Ты кто нахуй?|Я не буду тебе давать деньги",
+            "src": "railstationHub",
+            "characters": "Douma"
+        },
+        {
+            "author": "Неизвестный",
+            "text": "*уходит*",
+            "src": "railstationHub",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "Ну ладно, надо проверить 2 колею",
+            "src": "railstationHub",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "О, это мой поезд!",
+            "src": "railstationTrain",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "*заходит в поезд*",
+            "src": "railstationTrain",
+            "characters": "none"
         }
     ]
 }

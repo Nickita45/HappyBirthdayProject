@@ -4,6 +4,7 @@ using UnityEngine;
 using System.IO;
 using UnityEditor.PackageManager;
 using System.Collections.Generic;
+using System;
 
 public class TextPlayers : MonoBehaviour
 {
@@ -35,11 +36,22 @@ public class TextPlayers : MonoBehaviour
     {
         if (currentTextIndex < textsData.textArray.Length)
         {
-            textDisplay.fullText = textsData.textArray[currentTextIndex].text;
-            
-            Sprite spriteAsset = Resources.Load<Sprite>("Images/"+textsData.textArray[currentTextIndex].src);
-            textDisplay.imageBackground.sprite = spriteAsset;
-            textDisplay.playDisplayText();
+            string[] answers = TryToSplitAnswers(textsData.textArray[currentTextIndex].text);
+            if(answers.Length>1)
+            {
+                textDisplay.playAnswersText(answers);
+            }
+            else
+            {
+                textDisplay.fullText = textsData.textArray[currentTextIndex].text;
+                
+                Sprite spriteAsset = Resources.Load<Sprite>("Images/"+textsData.textArray[currentTextIndex].src);
+                textDisplay.imageBackground.sprite = spriteAsset;
+                Sprite characterImageAsset = Resources.Load<Sprite>("Characters/"+textsData.textArray[currentTextIndex].characters);
+                textDisplay.characterImage.sprite = characterImageAsset;
+                textDisplay.nameCharacter.text = textsData.textArray[currentTextIndex].author;
+                textDisplay.playDisplayText();
+            }
             //textDisplay.text = texts[currentTextIndex];
             currentTextIndex++;
         }
@@ -47,6 +59,11 @@ public class TextPlayers : MonoBehaviour
         {
             textDisplay.fullText = "Все тексты воспроизведены.";
         }
+    }
+    public string[] TryToSplitAnswers(string str)
+    {
+        string[] arr = str.Split("|");
+        return arr;
     }
 }
 [System.Serializable]
@@ -60,4 +77,5 @@ public class ObjectText
     public string author;
     public string text;
     public string src;
+    public string characters;
 }
