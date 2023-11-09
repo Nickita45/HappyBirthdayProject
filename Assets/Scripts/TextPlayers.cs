@@ -15,8 +15,13 @@ public class TextPlayers : MonoBehaviour
 
     private void Start()
     {
+
+    }
+    public void startReadingText(string nameScene)
+    {
         // Загрузка текстов из файла JSON
-        string filePath = "Assets/Texts/Scene1.json"; // Укажите путь к вашему файлу JSON
+        currentTextIndex = 0;
+        string filePath = $"Assets/Texts/{nameScene}.json"; // Укажите путь к вашему файлу JSON
         
         if (File.Exists(filePath))
         {
@@ -57,7 +62,8 @@ public class TextPlayers : MonoBehaviour
         }
         else
         {
-            textDisplay.fullText = "Все тексты воспроизведены.";
+            GameManager.Instance.UpdateScenarios();
+            //textDisplay.fullText = "Все тексты воспроизведены.";
         }
     }
     public string[] TryToSplitAnswers(string str)

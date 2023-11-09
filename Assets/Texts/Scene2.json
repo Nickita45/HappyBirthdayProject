@@ -1,0 +1,112 @@
+{
+    "textArray": [
+        {
+            "author": "Лиза",
+            "text": "Хммм, странный поезд, я таких расскошных еще не видела",
+            "src": "arc2trainInside",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "Блин вот бы с нетерпением встретится с Дмитрием Бетховеном!",
+            "src": "arc2trainInside",
+            "characters": "none"
+        },
+        {
+            "author": "",
+            "text": "*стук* *стук*",
+            "src": "arc2trainDoor",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "Да, заходите|Кто там блят?|*промолчать*",
+            "src": "arc2trainDoor",
+            "characters": "none"
+        },
+        {
+            "author": "Неизвестный",
+            "text": "*дверь открывается*\nЗдравствуйте! У меня сидение как раз рядом с вами!",
+            "src": "arc2trainDoor",
+            "characters": "none"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "Меня зовут Ренгоку! Приятно познакомится! Этот поезд такой фантастичный!",
+            "src": "arc2trainDoor",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "Лиза",
+            "text": "Привет, приятно познакомится|АХУЕТ ТЫ КАК СЮДА ПОПАЛ???|Меня зовут Лиза, я хочу стать счастливой",
+            "src": "arc2trainDoor",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "Вау! Это так круто! А ты не знаешь куда едет этот поезд? Я вроде впервые подобный вижу",
+            "src": "arc2trainInside",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "Лиза",
+            "text": "В Одессу. я тоже впервые такой вижу",
+            "src": "arc2trainInside",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "О у меня есть очень вкусные пирожки! Хочешь попробовать?",
+            "src": "arc2trainInside",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "Лиза",
+            "text": "Конечно!|Ты еще блят спрашиваешь?|Давай сюда|*вырвать из рук*",
+            "src": "arc2trainInside",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "*говорит с набитым ртом* \nЯ их купил не далеко от жд, там была такая милая продавщица! Я не мог не купить!",
+            "src": "arc2trainInside",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "",
+            "text": "*идет разговор*",
+            "src": "arc2trainInside",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "Вообще очень странно что к нам до сих пор не подошел кондуктор, надо быы поооойтии спрооооси.....",
+            "src": "arc2trainInside",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "*резко падает на пол и засыпает*",
+            "src": "arc2trainInside",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "Чтто-то у меня тооожжеее глааазааа закккрываююю.... ",
+            "src": "arc2trainInside",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "*глаза закрылись и вы усыпаете*",
+            "src": "arc2blackscreen",
+            "characters": "none"
+        },
+        {
+            "author": "Неизвестный голос",
+            "text": "Хахаха, теперь вы в моей ловушке!",
+            "src": "arc2blackscreen",
+            "characters": "none"
+        }
+    ]
+}
