@@ -13,7 +13,7 @@
             "characters": "none"
         },
         {
-            "author": "",
+            "author": "???",
             "text": "*стук* *стук*",
             "src": "arc2trainDoor",
             "characters": "none"
@@ -25,7 +25,7 @@
             "characters": "none"
         },
         {
-            "author": "Неизвестный",
+            "author": "???",
             "text": "*дверь открывается*\nЗдравствуйте! У меня сидение как раз рядом с вами!",
             "src": "arc2trainDoor",
             "characters": "none"
@@ -50,7 +50,7 @@
         },
         {
             "author": "Лиза",
-            "text": "В Одессу. я тоже впервые такой вижу",
+            "text": "В Одессу.Я тоже впервые такой вижу",
             "src": "arc2trainInside",
             "characters": "Rengoku"
         },
@@ -88,13 +88,13 @@
             "author": "Ренгоку",
             "text": "*резко падает на пол и засыпает*",
             "src": "arc2trainInside",
-            "characters": "none"
+            "characters": "RengokuSleep"
         },
         {
             "author": "Лиза",
             "text": "Чтто-то у меня тооожжеее глааазааа закккрываююю.... ",
             "src": "arc2trainInside",
-            "characters": "none"
+            "characters": "RengokuSleep"
         },
         {
             "author": "Лиза",
@@ -103,7 +103,7 @@
             "characters": "none"
         },
         {
-            "author": "Неизвестный голос",
+            "author": "???",
             "text": "Хахаха, теперь вы в моей ловушке!",
             "src": "arc2blackscreen",
             "characters": "none"

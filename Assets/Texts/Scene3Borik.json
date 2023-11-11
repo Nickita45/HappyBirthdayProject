@@ -1,0 +1,214 @@
+{
+    "textArray": [
+        {
+            "author": "Лиза",
+            "text": "*просыпается*",
+            "src": "arc3forest",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "Где я?|Какого хера|...",
+            "src": "arc3forest",
+            "characters": "none"
+        },
+        {
+            "author": "Сова",
+            "text": "Угу -угу - угу - гуг",
+            "src": "arc3forest",
+            "characters": "none"
+        },
+        {
+            "author": "???",
+            "text": "Мало кто знает, что хищные животные чуют смертельно больную добычу и стараются за ней не охотится. Если ситуация того требует, нужно притворится максимально больным человеком, чтобы зверь вас обошел стороной.",
+            "src": "arc3forest",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "*идет на звук*",
+            "src": "arc3forest",
+            "characters": "none"
+        },
+        {
+            "author": "???",
+            "text": "Такая ситуация. Обнаружили на горизонте какого-то хищника, начинаете по-тихоньку потрясиваться и издавать характерные звуки, ну вы... реально бальной, смертельно какой-то утырок.",
+            "src": "arc3forest",
+            "characters": "none"
+        },
+        {
+            "author": "",
+            "text": "*звук все ближе*",
+            "src": "arc3forest",
+            "characters": "none"
+        },
+        {
+            "author": "???",
+            "text": "Уа уа гыа кх ках. Пха пхе кхе. Кхе кхе. Быааа быа брррр бррыыа. Беау бхе бху кха",
+            "src": "arc3forest",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "*подходит еще ближе*",
+            "src": "arc3forest",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "*осматривает местность*",
+            "src": "arc3forest2",
+            "characters": "none"
+        },
+        {
+            "author": "",
+            "text": "*резкий грохот*",
+            "src": "arc3forest2",
+            "characters": "none"
+        },
+        {
+            "author": "???",
+            "text": "Пила струна...",
+            "src": "arc3forest2",
+            "characters": "none"
+        },
+        {
+            "author": "???",
+            "text": "...",
+            "src": "arc3forest2",
+            "characters": "Surviver"
+        },
+        {
+            "author": "Лиза",
+            "text": "Ебать, надо сьебывать|Походу он думает что я какой-то медведь(*Бежать*)|*Просто бежать*",
+            "src": "arc3forest2",
+            "characters": "Surviver"
+        },
+        {
+            "author": "Лиза",
+            "text": "*бежит*",
+            "src": "arc3forest3",
+            "characters": ""
+        },
+        {
+            "author": "Выживало",
+            "text": "Иди сюда, иди сюда. Шерсть. Вонючка. Падаль. Грязная. Падаль. Падла. Давай сюда!",
+            "src": "arc3forest3",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "*звук скрипа*",
+            "src": "arc3forest3",
+            "characters": ""
+        },
+        {
+            "author": "Выживало",
+            "text": "Аууауауау Аааууауа аааа",
+            "src": "arc3forest3",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "*звуки борьбы*",
+            "src": "arc3forest3",
+            "characters": ""
+        },
+        {
+            "author": "???",
+            "text": "*тыш пыш пыдышь*",
+            "src": "arc3forest3",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "*наступает тишина*",
+            "src": "arc3forest3",
+            "characters": ""
+        },
+        {
+            "author": "Лиза",
+            "text": "*продолжает идти дальше*",
+            "src": "arc3forest4",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "*проходит некоторое время*",
+            "src": "arc3forest4",
+            "characters": ""
+        },
+        {
+            "author": "???",
+            "text": "Ихихаха. Сейчас рванет!",
+            "src": "arc3forest4",
+            "characters": ""
+        },
+        {
+            "author": "???",
+            "text": "*раздается резкий взрыв*",
+            "src": "arc3forest4",
+            "characters": "Exploision"
+        },
+        {
+            "author": "Лиза",
+            "text": "*откидывает волной*",
+            "src": "arc3sky",
+            "characters": ""
+        },
+        {
+            "author": "Лиза",
+            "text": "*падает на землю и по чучуть отрубается*",
+            "src": "arc3sky",
+            "characters": ""
+        },
+        {
+            "author": "Крысавчик",
+            "text": "Вы только глянте! Была б шляпа, я б снял бы ее...",
+            "src": "arc3sky",
+            "characters": "Junkrat"
+        },
+        {
+            "author": "",
+            "text": "Темнота",
+            "src": "arc2blackscreen",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "Пустота",
+            "src": "arc2blackscreen",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "Можно задаться многими вопросами смотря на нее",
+            "src": "arc2blackscreen",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "Для чего вся эта жизнь...",
+            "src": "arc2blackscreen",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "Каково мое назначение...",
+            "src": "arc2blackscreen",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "Что скрывает этот мир...",
+            "src": "arc2blackscreen",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "...",
+            "src": "arc2blackscreen",
+            "characters": ""
+        }
+     ]
+}
