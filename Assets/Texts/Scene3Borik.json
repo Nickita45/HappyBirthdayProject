@@ -172,7 +172,8 @@
             "author": "",
             "text": "Темнота",
             "src": "arc2blackscreen",
-            "characters": ""
+            "characters": "",
+            "srcSound": "arc3Freddy"
         },
         {
             "author": "",

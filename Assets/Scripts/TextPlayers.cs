@@ -20,6 +20,7 @@ public class TextPlayers : MonoBehaviour
     public void startReadingText(string nameScene)
     {
         // Загрузка текстов из файла JSON
+        textDisplay.audioSourceSound.Stop();
         currentTextIndex = 0;
         string filePath = $"Assets/Texts/{nameScene}.json"; // Укажите путь к вашему файлу JSON
         
@@ -55,6 +56,12 @@ public class TextPlayers : MonoBehaviour
                 Sprite characterImageAsset = Resources.Load<Sprite>("Characters/"+textsData.textArray[currentTextIndex].characters);
                 textDisplay.characterImage.sprite = characterImageAsset;
                 textDisplay.nameCharacter.text = textsData.textArray[currentTextIndex].author;
+                AudioClip audioClip = Resources.Load<AudioClip>("Sounds/"+textsData.textArray[currentTextIndex].srcSound);
+                if(audioClip != null)
+                {
+                    textDisplay.audioSourceSound.clip = audioClip;
+                    textDisplay.audioSourceSound.Play();
+                }
                 textDisplay.playDisplayText();
             }
             //textDisplay.text = texts[currentTextIndex];
@@ -84,4 +91,5 @@ public class ObjectText
     public string text;
     public string src;
     public string characters;
+    public string srcSound;
 }

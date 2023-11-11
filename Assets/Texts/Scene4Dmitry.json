@@ -1,0 +1,89 @@
+{
+    "textArray": [
+        {
+            "author": "Лиза",
+            "text": "Где я?",
+            "src": "arc4headrey",
+            "characters": "none",
+            "srcSound": "evangelionSound"
+        },
+        {
+            "author": "Лиза",
+            "text": "Кто я?",
+            "src": "arc4headrey",
+            "characters": "none"
+        },
+        {
+            "author": "???",
+            "text": "Ты - Аянами Рэй.",
+            "src": "arc4headrey",
+            "characters": "none"
+        },
+        {
+            "author": "Лиза",
+            "text": "А кто ты?",
+            "src": "arc4headrey",
+            "characters": "none"
+        },
+        {
+            "author": "Аянами Рэй",
+            "text": "Аянами Рэй.",
+            "src": "arc4headrey",
+            "characters": "Rey"
+        },
+        {
+            "author": "Лиза",
+            "text": "Ты тоже Аянами Рэй?|Аянами Рєй???|Муката Плотновік???",
+            "src": "arc4headrey",
+            "characters": "Rey"
+        },
+        {
+            "author": "Аянами Рэй",
+            "text": "Да, я та, кого знают, как Аянами Рэй.",
+            "src": "arc4headrey",
+            "characters": "Rey"
+        },
+        {
+            "author": "Лиза",
+            "text": "Ну, раз уж мы обе Аянами Рэй, может, ты расскажешь забавный факт????",
+            "src": "arc4headrey",
+            "characters": "Rey"
+        },
+        {
+            "author": "Аянами Рэй",
+            "text": "О, точно! Например, я знаю, почему курица переходит дорогу.",
+            "src": "arc4headrey",
+            "characters": "Rey"
+        },
+        {
+            "author": "Лиза",
+            "text": "Почему?|Нахуя мне эта информация?|Схуяли?",
+            "src": "arc4headrey",
+            "characters": "Rey"
+        },
+        {
+            "author": "Аянами Рэй",
+            "text": "Ну, в общем, курица переходит дорогу, чтобы добраться до другой стороны. А вот почему ей так сильно хочется туда дойти - тебя ебать не должно.",
+            "src": "arc4headrey",
+            "characters": "Rey"
+        },
+        {
+            "author": "Лиза",
+            "text": "Тонко)))) Действительно тонко)))) Жаль, что далеко не все поймут, в чем же дело)))",
+            "src": "arc4headrey",
+            "characters": "Rey"
+        },
+        {
+            "author": "АяНамИ РэЙ",
+            "text": "Ладно тебе уже пора просыпаться... Проснись... Проснись...",
+            "src": "arc4headrey",
+            "characters": "ReyBigHead"
+        },
+        {
+            "author": "Лиза",
+            "text": "Проснутся? Точно! Нужно как победить этого демона пока он не закинул меня снова в ночь",
+            "src": "arc2blackscreen",
+            "characters": ""
+        }
+     ]
+}

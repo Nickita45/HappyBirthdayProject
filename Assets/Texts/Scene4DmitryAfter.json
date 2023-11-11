@@ -1,0 +1,40 @@
+{
+    "textArray": [
+        {
+            "author": "Лиза",
+            "text": "*поднимает глаза*",
+            "src": "arc3_5blacktraininside",
+            "characters": ""
+        },
+        {
+            "author": "???",
+            "text": "ТЫ ВСЕ ЕЩЕ СТОИШЬ??? КАК ЭТО ВОЗМОЖНО?",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "Лиза",
+            "text": "*напасть*|Иди сюда ты быдло ебучее|*попробовать разбудить Ренгоку*",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "???",
+            "text": "НЕТ! Я ТЕБЕ ТОГДА ПЕРВЫМ УБЬЮ! ЭТОТ СТОЛБ ПОДОЖДЕТ!",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "???",
+            "text": "УСНИ!",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "Лиза",
+            "text": "*cнова засыпает*",
+            "src": "arc2blackscreen",
+            "characters": ""
+        }
+     ]
+}

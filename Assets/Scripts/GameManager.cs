@@ -6,7 +6,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     private int currentScenarios = 0;
-    private string[] nameScenarios = {"Scene3Borik","Scene2","Scene3Borik"};
+    private string[] nameScenarios = {"Scene5MaksymIlyaAfter","Scene4Dmitry","Scene4DmitryAfter"   ,"Scene1","Scene2","Scene3Borik","Scene3BorikAfter","Scene4Dmitry","Scene4DmitryAfter","Scene5MaksymIlyaAfter"};
     private static GameManager _instance;
     public static GameManager Instance => _instance;
 

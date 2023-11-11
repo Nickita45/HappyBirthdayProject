@@ -1,0 +1,89 @@
+{
+    "textArray": [
+        {
+            "author": "Лиза",
+            "text": "*просыпается*",
+            "src": "arc3_5trainInside",
+            "characters": "RengokuSleep"
+        },
+        {
+            "author": "Лиза",
+            "text": "Хм, очень странный сон.",
+            "src": "arc3_5trainInside",
+            "characters": "RengokuSleep"
+        },
+        {
+            "author": "Лиза",
+            "text": "*оглядывается*",
+            "src": "arc3_5trainInside",
+            "characters": "RengokuSleep"
+        },
+        {
+            "author": "Лиза",
+            "text": "Хм, а на улице уже темно. О рядом лежит Ренгоку!",
+            "src": "arc3_5trainInside",
+            "characters": "RengokuSleep"
+        },
+        {
+            "author": "Лиза",
+            "text": "*тыкнуть в него пальцем*|*подозвать его*|*пнуть его ногой*",
+            "src": "arc3_5trainInside",
+            "characters": "RengokuSleep"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "*махнул резко рукой*",
+            "src": "arc3_5trainInside",
+            "characters": "RengokuSleep"
+        },
+        {
+            "author": "Лиза",
+            "text": "*отпрыгнула* \nБлин, меня чуть не убили",
+            "src": "arc3_5trainInside",
+            "characters": "RengokuSleep"
+        },
+        {
+            "author": "Лиза",
+            "text": "надо пойти посмотреть что вообще происходит",
+            "src": "arc3_5trainInside",
+            "characters": "RengokuSleep"
+        },
+
+        {
+            "author": "Лиза",
+            "text": "Поезд едет дальше, но никого нет?",
+            "src": "arc3_5blacktraininside",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "...",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "Лиза",
+            "text": "Извините, а вы не знаете что происходит...",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "???",
+            "text": "КАК ТЫ ЕЩЕ НЕ СПИШЬ? НЕВОЗМОЖНО!",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "???",
+            "text": "Ты мешаешь всем моим планам! А ну быстро спать!",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "Лиза",
+            "text": "*cнова засыпает*",
+            "src": "arc2blackscreen",
+            "characters": ""
+        }
+     ]
+}

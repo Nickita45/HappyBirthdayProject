@@ -1,0 +1,88 @@
+{
+    "textArray": [
+        {
+            "author": "Лиза",
+            "text": "Так, в этот раз я уже не сплахаю!",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "???",
+            "text": "КАК ТОЛЬКО ТЫ УСПЕВАЕШЬ ТАК БЫСТРО ВЫЙТИ ИЗ СНА?",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "Лиза",
+            "text": "Пососи|Чел я дед инсайд|Сьебись пожалуйста",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "???",
+            "text": "ТАК ВИДИМО ТВОИ МУЧЕНИЯ ПРИДЕТСЯ ПРОДЛИТЬ!",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "???",
+            "text": "Я ВЕСЬ ЭТОТ ПОЕЗД! ТЫ ХОТЬ ПОНИМАЕШЬ ЧТО ТЫ УМРЕШЬ???",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "Лиза",
+            "text": "Мне так похуй|О нет!|Урааа!",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "???",
+            "text": "Какая же девочка эта наивная и глупая! НО ЧТО ТЫ СКАЖЕ....",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu"
+        },
+        {
+            "author": "???",
+            "text": "Почему моя голова отделилиась от тел..... ",
+            "src": "arc3_5blacktraininside",
+            "characters": "EnmuBody"
+        },
+        {
+            "author": "",
+            "text": "*голова незнакомца падает*",
+            "src": "arc3_5blacktraininside",
+            "characters": "EnmuHead"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "Спасибо тебе большое! Теперь я уже со всем разберусь",
+            "src": "arc3_5blacktraininside",
+            "characters": "Rengoku"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "*хуярит весь поезд своей 9 катой огня*",
+            "src": "arc5_5trainoutside",
+            "characters": ""
+        },
+        {
+            "author": "Ренгоку",
+            "text": "НЕЕЕЕЕТ КАК Я МОГ ПРОИГРАТ.......",
+            "src": "arc3_5blacktraininside",
+            "characters": "EnmuHead"
+        },
+        {
+            "author": "Поезд",
+            "text": "*разбивается*",
+            "src": "arc5_5trainoutside",
+            "characters": ""
+        },
+        {
+            "author": "Поезд",
+            "text": "*разбивается*",
+            "src": "arc5_5traincrushed",
+            "characters": ""
+        }
+     ]
+}

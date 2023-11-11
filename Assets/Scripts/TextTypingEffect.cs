@@ -8,6 +8,7 @@ public class TextTypingEffect : MonoBehaviour
     public float letterDelay = 0.1f; // Задержка между буквами
     public string fullText = "Ваш текст для постепенного появления";
     public AudioSource audioSource;
+    public AudioSource audioSourceSound;
     public TextMeshProUGUI textMeshPro;
     private string currentText = "";
     private int currentIndex = 0;
