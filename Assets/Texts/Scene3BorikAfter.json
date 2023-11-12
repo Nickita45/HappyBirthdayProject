@@ -4,7 +4,8 @@
             "author": "Лиза",
             "text": "*просыпается*",
             "src": "arc3_5trainInside",
-            "characters": "RengokuSleep"
+            "characters": "RengokuSleep",
+            "srcSound": "arc3_5lisawakeup"
         },
         {
             "author": "Лиза",
@@ -16,7 +17,8 @@
             "author": "Лиза",
             "text": "*оглядывается*",
             "src": "arc3_5trainInside",
-            "characters": "RengokuSleep"
+            "characters": "RengokuSleep",
+            "srcSound": "arc3_5lisalookaround"
         },
         {
             "author": "Лиза",
@@ -34,7 +36,8 @@
             "author": "Ренгоку",
             "text": "*махнул резко рукой*",
             "src": "arc3_5trainInside",
-            "characters": "RengokuSleep"
+            "characters": "RengokuSleep",
+            "srcSound": "arc3_5rengokuhand"
         },
         {
             "author": "Лиза",
@@ -71,19 +74,22 @@
             "author": "???",
             "text": "КАК ТЫ ЕЩЕ НЕ СПИШЬ? НЕВОЗМОЖНО!",
             "src": "arc3_5blacktraininside",
-            "characters": "Enmu"
+            "characters": "Enmu",
+            "srcSound": "arc3_5enmu1"
         },
         {
             "author": "???",
             "text": "Ты мешаешь всем моим планам! А ну быстро спать!",
             "src": "arc3_5blacktraininside",
-            "characters": "Enmu"
+            "characters": "Enmu",
+            "srcSound": "arc3_5enmu2"
         },
         {
             "author": "Лиза",
             "text": "*cнова засыпает*",
             "src": "arc2blackscreen",
-            "characters": ""
+            "characters": "",
+            "srcSound": "arc3_5lisasleep"
         }
      ]
 }

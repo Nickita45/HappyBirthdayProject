@@ -7,8 +7,8 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     private int currentScenarios = 0;
-    private string[] nameScenarios = {"Scene1","Scene2","Scene3Borik","Scene3BorikAfter","Scene4Dmitry","Scene4DmitryAfter","Scene5MaksymIlya","Scene5MaksymIlyaAfter","Scene6"};
-    //private string[] nameScenarios = {"Scene5MaksymIlya"};
+    //private string[] nameScenarios = {"Scene1","Scene2","Scene3Borik","Scene3BorikAfter","Scene4Dmitry","Scene4DmitryAfter","Scene5MaksymIlya","Scene5MaksymIlyaAfter","Scene6"};
+    private string[] nameScenarios = {"Scene3BorikAfter","Scene4DmitryAfter","Scene5MaksymIlyaAfter","Scene6"};
     
     private static GameManager _instance;
     public static GameManager Instance => _instance;

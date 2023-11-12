@@ -4,7 +4,8 @@
             "author": "Ренгоку",
             "text": "Что то тут не так, будь осторожнее",
             "src": "arc5_5traincrushed",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc6_rengoku1"
         },
         {
             "author": "Лиза",
@@ -16,25 +17,29 @@
             "author": "???",
             "text": "Ого! Это что за сила такая от тебя исходит???",
             "src": "arc5_5traincrushed",
-            "characters": ""
+            "characters": "",
+            "srcSound": "arc6_akaza1"
         },
         {
             "author": "Ренгоку",
             "text": "Ты кто такой? ",
             "src": "arc5_5traincrushed",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc6_rengoku2"
         },
         {
             "author": "Аказа",
             "text": "Меня зову Аказа, Мне нравится твой стиль, не хочешь стать всемогущим?",
             "src": "arc5_5traincrushed",
-            "characters": "Akaza"
+            "characters": "Akaza",
+            "srcSound": "arc6_akaza2"
         },
         {
             "author": "Ренгоку",
             "text": "Нет, спасибо, пожалуй откажусь",
             "src": "arc5_5traincrushed",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc6_rengoku3"
         },
         {
             "author": "Лиза",
@@ -46,43 +51,50 @@
             "author": "Аказа",
             "text": "Тогда умрИ!",
             "src": "arc5_5traincrushed",
-            "characters": "Akaza"
+            "characters": "Akaza",
+            "srcSound": "arc6_akaza3"
         },
         {
             "author": "Аказа",
             "text": "*нападает в сторону Ренгоку*",
             "src": "arc5_5traincrushed",
-            "characters": "Akaza"
+            "characters": "Akaza",
+            "srcSound": "arc6_akaza4"
         },
         {
             "author": "Ренгоку",
-            "text": "*отбивает атаку *",
+            "text": "*отбивает атаку*",
             "src": "arc5_5traincrushed",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc6_rengoku4"
         },
         {
             "author": "Ренгоку",
             "text": "Стой сзади, не подходи пожалуйста",
             "src": "arc5_5traincrushed",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc6_rengoku5"
         },
         {
             "author": "Аказа",
             "text": "Я тебе даю еще один шанс! ",
             "src": "arc5_5traincrushed",
-            "characters": "Akaza"
+            "characters": "Akaza",
+            "srcSound": "arc6_akaza5"
         },
         {
             "author": "Ренгоку",
             "text": "*нападает* \nА я тебе еще раз отвечаю Нет!",
             "src": "arc5_5traincrushed",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc6_rengoku6"
         },
         {
             "author": "Аказа",
             "text": "Аказа не приймет отказа! ",
             "src": "arc5_5traincrushed",
-            "characters": "Akaza"
+            "characters": "Akaza",
+            "srcSound": "arc6_akaza6"
         }
      ]
 }

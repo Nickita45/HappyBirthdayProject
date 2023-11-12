@@ -4,13 +4,15 @@
             "author": "Лиза",
             "text": "*поднимает глаза*",
             "src": "arc3_5blacktraininside",
-            "characters": ""
+            "characters": "",
+            "srcSound": "arc4_lisawakeup"
         },
         {
             "author": "???",
             "text": "ТЫ ВСЕ ЕЩЕ СТОИШЬ??? КАК ЭТО ВОЗМОЖНО?",
             "src": "arc3_5blacktraininside",
-            "characters": "Enmu"
+            "characters": "Enmu",
+            "srcSound": "arc4_enmu1"
         },
         {
             "author": "Лиза",
@@ -22,19 +24,22 @@
             "author": "???",
             "text": "НЕТ! Я ТЕБЕ ТОГДА ПЕРВЫМ УБЬЮ! ЭТОТ СТОЛБ ПОДОЖДЕТ!",
             "src": "arc3_5blacktraininside",
-            "characters": "Enmu"
+            "characters": "Enmu",
+            "srcSound": "arc4_enmu2"
         },
         {
             "author": "???",
             "text": "УСНИ!",
             "src": "arc3_5blacktraininside",
-            "characters": "Enmu"
+            "characters": "Enmu",
+            "srcSound": "arc4_enmu3"
         },
         {
             "author": "Лиза",
             "text": "*cнова засыпает*",
             "src": "arc2blackscreen",
-            "characters": ""
+            "characters": "",
+            "srcSound": "arc4_lisasleep"
         }
      ]
 }

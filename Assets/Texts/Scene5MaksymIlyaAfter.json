@@ -2,6 +2,13 @@
     "textArray": [
         {
             "author": "Лиза",
+            "text": "*просыпается*",
+            "src": "arc3_5blacktraininside",
+            "characters": "Enmu",
+            "srcSound": "arc3_5lisawakeup"
+        },
+        {
+            "author": "Лиза",
             "text": "Так, в этот раз я уже не сплахаю!",
             "src": "arc3_5blacktraininside",
             "characters": "Enmu"
@@ -10,7 +17,8 @@
             "author": "???",
             "text": "КАК ТОЛЬКО ТЫ УСПЕВАЕШЬ ТАК БЫСТРО ВЫЙТИ ИЗ СНА?",
             "src": "arc3_5blacktraininside",
-            "characters": "Enmu"
+            "characters": "Enmu",
+            "srcSound": "arc5_enmu1"
         },
         {
             "author": "Лиза",
@@ -22,13 +30,15 @@
             "author": "???",
             "text": "ТАК ВИДИМО ТВОИ МУЧЕНИЯ ПРИДЕТСЯ ПРОДЛИТЬ!",
             "src": "arc3_5blacktraininside",
-            "characters": "Enmu"
+            "characters": "Enmu",
+            "srcSound": "arc5_enmu2"
         },
         {
             "author": "???",
             "text": "Я ВЕСЬ ЭТОТ ПОЕЗД! ТЫ ХОТЬ ПОНИМАЕШЬ ЧТО ТЫ УМРЕШЬ???",
             "src": "arc3_5blacktraininside",
-            "characters": "Enmu"
+            "characters": "Enmu",
+            "srcSound": "arc5_enmu3"
         },
         {
             "author": "Лиза",
@@ -40,55 +50,64 @@
             "author": "???",
             "text": "Какая же девочка эта наивная и глупая! НО ЧТО ТЫ СКАЖЕ....",
             "src": "arc3_5blacktraininside",
-            "characters": "Enmu"
+            "characters": "Enmu",
+            "srcSound": "arc5_enmu4"
         },
         {
             "author": "???",
             "text": "Почему моя голова отделилиась от тел..... ",
             "src": "arc3_5blacktraininside",
-            "characters": "EnmuBody"
+            "characters": "EnmuBody",
+            "srcSound": "arc5_enmu5"
         },
         {
             "author": "",
             "text": "*голова незнакомца падает*",
             "src": "arc3_5blacktraininside",
-            "characters": "EnmuHead"
+            "characters": "EnmuHead",
+            "srcSound": "arc5_headrop"
         },
         {
             "author": "Ренгоку",
             "text": "Спасибо тебе большое! Теперь я уже со всем разберусь",
             "src": "arc3_5blacktraininside",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc5_rengoku1"
         },
         {
             "author": "Ренгоку",
             "text": "*хуярит весь поезд своей 9 катой огня*",
             "src": "arc5_5trainoutside",
-            "characters": ""
+            "characters": "",
+            "srcSound": "arc5_rengoku2"
         },
         {
             "author": "???",
             "text": "НЕЕЕЕЕТ КАК Я МОГ ПРОИГРАТ.......",
             "src": "arc3_5blacktraininside",
-            "characters": "EnmuHead"
+            "characters": "EnmuHead",
+            "srcSound": "arc5_enmu6"
         },
         {
             "author": "Поезд",
             "text": "*разбивается*",
             "src": "arc5_5trainoutside",
-            "characters": "Exploision"
+            "characters": "Exploision",
+            "srcSound": "arc5_traincrash"
         },
         {
             "author": "Ренгоку",
             "text": "*хватает Лизу и выносит её снаружи*",
             "src": "arc5_5trainoutside",
-            "characters": ""
+            "characters": "",
+            "srcSound": "arc5_rengoku3"
         },
         {
             "author": "Ренгоку",
             "text": "Здесь ты в безопасности!",
             "src": "arc5_5traincrushed",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc5_rengoku4"
         }
      ]
 }
