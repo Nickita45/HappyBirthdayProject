@@ -1,10 +1,6 @@
-using System.Collections;
-using TMPro;
+
 using UnityEngine;
 using System.IO;
-using UnityEditor.PackageManager;
-using System.Collections.Generic;
-using System;
 
 public class TextPlayers : MonoBehaviour
 {
@@ -22,8 +18,8 @@ public class TextPlayers : MonoBehaviour
         // Загрузка текстов из файла JSON
         textDisplay.audioSourceSound.Stop();
         currentTextIndex = 0;
-        string filePath = $"Assets/Texts/{nameScene}.json"; // Укажите путь к вашему файлу JSON
-        
+        //string filePath = $"Assets/Texts/{nameScene}.json"; // Укажите путь к вашему файлу JSON
+        string filePath = Path.Combine(Application.streamingAssetsPath, $"Texts/{nameScene}.json");
         if (File.Exists(filePath))
         {
             string jsonText = File.ReadAllText(filePath);
