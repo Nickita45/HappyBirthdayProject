@@ -16,7 +16,8 @@
             "author": "???",
             "text": "*стук* *стук*",
             "src": "arc2trainDoor",
-            "characters": "none"
+            "characters": "none",
+            "srcSound": "arc2_knockknock"
         },
         {
             "author": "Лиза",
@@ -28,13 +29,15 @@
             "author": "???",
             "text": "*дверь открывается*\nЗдравствуйте! У меня сидение как раз рядом с вами!",
             "src": "arc2trainDoor",
-            "characters": "none"
+            "characters": "none",
+            "srcSound": "arc2_rengokuEnter"
         },
         {
             "author": "Ренгоку",
             "text": "Меня зовут Ренгоку! Приятно познакомится! Этот поезд такой фантастичный!",
             "src": "arc2trainDoor",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc2_rengokuspeach1"
         },
         {
             "author": "Лиза",
@@ -46,7 +49,8 @@
             "author": "Ренгоку",
             "text": "Вау! Это так круто! А ты не знаешь куда едет этот поезд? Я вроде впервые подобный вижу",
             "src": "arc2trainInside",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc2_rengokuspeach2"
         },
         {
             "author": "Лиза",
@@ -58,7 +62,8 @@
             "author": "Ренгоку",
             "text": "О у меня есть очень вкусные пирожки! Хочешь попробовать?",
             "src": "arc2trainInside",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc2_rengokuspeach3"
         },
         {
             "author": "Лиза",
@@ -70,7 +75,8 @@
             "author": "Ренгоку",
             "text": "*говорит с набитым ртом* \nЯ их купил не далеко от жд, там была такая милая продавщица! Я не мог не купить!",
             "src": "arc2trainInside",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc2_rengokuspeach4"
         },
         {
             "author": "",
@@ -82,13 +88,15 @@
             "author": "Ренгоку",
             "text": "Вообще очень странно что к нам до сих пор не подошел кондуктор, надо быы поооойтии спрооооси.....",
             "src": "arc2trainInside",
-            "characters": "Rengoku"
+            "characters": "Rengoku",
+            "srcSound": "arc2_rengokuspeach5"
         },
         {
             "author": "Ренгоку",
             "text": "*резко падает на пол и засыпает*",
             "src": "arc2trainInside",
-            "characters": "RengokuSleep"
+            "characters": "RengokuSleep",
+            "srcSound": "arc2_rengokuspeach6"
         },
         {
             "author": "Лиза",
@@ -100,13 +108,15 @@
             "author": "Лиза",
             "text": "*глаза закрылись и вы усыпаете*",
             "src": "arc2blackscreen",
-            "characters": "none"
+            "characters": "none",
+            "srcSound": "arc2_lisasleep"
         },
         {
             "author": "???",
             "text": "Хахаха, теперь вы в моей ловушке!",
             "src": "arc2blackscreen",
-            "characters": "none"
+            "characters": "none",
+            "srcSound": "arc2_unknowspeach1"
         }
     ]
 }

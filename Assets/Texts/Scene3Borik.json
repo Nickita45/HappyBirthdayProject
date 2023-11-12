@@ -16,61 +16,71 @@
             "author": "Сова",
             "text": "Угу -угу - угу - гуг",
             "src": "arc3forest",
-            "characters": "none"
+            "characters": "none",
+            "srcSound": "arc3_owl"
         },
         {
             "author": "???",
             "text": "Мало кто знает, что хищные животные чуют смертельно больную добычу и стараются за ней не охотится. Если ситуация того требует, нужно притворится максимально больным человеком, чтобы зверь вас обошел стороной.",
             "src": "arc3forest",
-            "characters": "none"
+            "characters": "none",
+            "srcSound": "arc3_unknowspeach1"
         },
         {
             "author": "Лиза",
             "text": "*идет на звук*",
             "src": "arc3forest",
-            "characters": "none"
+            "characters": "none",
+            "srcSound": "arc3_walkingonsound"
         },
         {
             "author": "???",
             "text": "Такая ситуация. Обнаружили на горизонте какого-то хищника, начинаете по-тихоньку потрясиваться и издавать характерные звуки, ну вы... реально бальной, смертельно какой-то утырок.",
             "src": "arc3forest",
-            "characters": "none"
+            "characters": "none",
+            "srcSound":"arc3_unknowspeach2"
         },
         {
             "author": "",
             "text": "*звук все ближе*",
             "src": "arc3forest",
-            "characters": "none"
+            "characters": "none",
+            "srcSound":"arc3_nearsound"
         },
         {
             "author": "???",
             "text": "Уа уа гыа кх ках. Пха пхе кхе. Кхе кхе. Быааа быа брррр бррыыа. Беау бхе бху кха",
             "src": "arc3forest",
-            "characters": "none"
+            "characters": "none",
+            "srcSound":"arc3_unknowspeach3"
         },
         {
             "author": "Лиза",
             "text": "*подходит еще ближе*",
             "src": "arc3forest",
-            "characters": "none"
+            "characters": "none",
+            "srcSound":"arc3_walkingmore"
         },
         {
             "author": "Лиза",
             "text": "*осматривает местность*",
             "src": "arc3forest2",
-            "characters": "none"
+            "characters": "none",
+            "srcSound":"arc3_lisalookignaround"
         },
         {
             "author": "",
             "text": "*резкий грохот*",
             "src": "arc3forest2",
-            "characters": "none"
+            "characters": "none",
+            "srcSound":"arc3_loudnoise"
         },
         {
             "author": "???",
             "text": "Пила струна...",
             "src": "arc3forest2",
-            "characters": "none"
+            "characters": "none",
+            "srcSound":"arc3_unknowspeach4"
         },
         {
             "author": "???",
@@ -88,85 +98,99 @@
             "author": "Лиза",
             "text": "*бежит*",
             "src": "arc3forest3",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_lisarunning"
         },
         {
             "author": "Выживало",
             "text": "Иди сюда, иди сюда. Шерсть. Вонючка. Падаль. Грязная. Падаль. Падла. Давай сюда!",
             "src": "arc3forest3",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_unknowspeach5"
         },
         {
             "author": "",
             "text": "*звук скрипа*",
             "src": "arc3forest3",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_idksound" 
         },
         {
             "author": "Выживало",
             "text": "Аууауауау Аааууауа аааа",
             "src": "arc3forest3",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_unknowspeach6" 
         },
         {
             "author": "",
             "text": "*звуки борьбы*",
             "src": "arc3forest3",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_fightsound" 
         },
         {
             "author": "???",
             "text": "*тыш пыш пыдышь*",
             "src": "arc3forest3",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_idk2" 
         },
         {
             "author": "",
             "text": "*наступает тишина*",
             "src": "arc3forest3",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_silence" 
         },
         {
             "author": "Лиза",
             "text": "*продолжает идти дальше*",
             "src": "arc3forest4",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_continuegoing" 
         },
         {
             "author": "",
             "text": "*проходит некоторое время*",
             "src": "arc3forest4",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_sometime" 
         },
         {
             "author": "???",
             "text": "Ихихаха. Сейчас рванет!",
             "src": "arc3forest4",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_junkrat1" 
         },
         {
             "author": "???",
             "text": "*раздается резкий взрыв*",
             "src": "arc3forest4",
-            "characters": "Exploision"
+            "characters": "Exploision",
+            "srcSound":"arc3_exploison" 
         },
         {
             "author": "Лиза",
             "text": "*откидывает волной*",
             "src": "arc3sky",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_wave" 
         },
         {
             "author": "Лиза",
             "text": "*падает на землю и по чучуть отрубается*",
             "src": "arc3sky",
-            "characters": ""
+            "characters": "",
+            "srcSound":"arc3_drop"
         },
         {
             "author": "Крысавчик",
             "text": "Вы только глянте! Была б шляпа, я б снял бы ее...",
             "src": "arc3sky",
-            "characters": "Junkrat"
+            "characters": "Junkrat",
+            "srcSound":"arc3_junkrat2" 
         },
         {
             "author": "",

@@ -22,7 +22,8 @@
             "author": "???",
             "text": "Твой поезд на 2 колеи...",
             "src": "railstationHub",
-            "characters": "Douma"
+            "characters": "Douma",
+            "srcSound": "arc1_unknown1"
         },
         {
             "author": "Лиза",
@@ -34,7 +35,8 @@
             "author": "???",
             "text": "*уходит*",
             "src": "railstationHub",
-            "characters": "none"
+            "characters": "none",
+            "srcSound": "arc1_unknown2"
         },
         {
             "author": "Лиза",
@@ -52,7 +54,8 @@
             "author": "Лиза",
             "text": "*заходит в поезд*",
             "src": "railstationTrain",
-            "characters": "none"
+            "characters": "none",
+            "srcSound": "arc1_entertrain"
         }
     ]
 }

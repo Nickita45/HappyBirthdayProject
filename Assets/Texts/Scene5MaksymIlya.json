@@ -1,0 +1,277 @@
+{
+    "textArray": [
+        {
+            "author": "Лиза",
+            "text": "Опять я хуй пойми где...",
+            "src": "arc3_5genshintavern",
+            "characters": ""
+        },
+        {
+            "author": "???",
+            "text": "Тише, геншинфаг, ты мне так всех клиентов распугаешь!",
+            "src": "arc3_5genshintavern",
+            "characters": ""
+        },
+        {
+            "author": "Лиза",
+            "text": "*оборачивается*",
+            "src": "arc3_5genshintavern",
+            "characters": ""
+        },
+        {
+            "author": "Диона",
+            "text": "Не знаю, кто ты, но у тебя приглашение на закрытую вечеринку от анонимных анонимусов.",
+            "src": "arc3_5genshintavern",
+            "characters": "Diona"
+        },
+        {
+            "author": "Лиза",
+            "text": "Надеюсь это не приглашение в политех",
+            "src": "arc3_5genshintavern",
+            "characters": "Diona"
+        },
+        {
+            "author": "Диона",
+            "text": "зачеркнуто:попизди тут ещё Сама узнаешь, \nа пока проходи вот к той двери, не задерживайся.",
+            "src": "arc3_5genshintavern",
+            "characters": "Diona"
+        },
+        {
+            "author": "Диона",
+            "text": "Но не бери пиво, пожалуйста",
+            "src": "arc3_5genshintavern",
+            "characters": "Diona"
+        },
+        {
+            "author": "Лиза",
+            "text": "я подумаю|ты че, кошара|ладно.",
+            "src": "arc3_5genshintavern",
+            "characters": "Diona"
+        },
+        {
+            "author": "Лиза",
+            "text": "*идет к двери, на которую показала Диона* *Стук*",
+            "src": "arc3_5genshintaverndoor",
+            "characters": ""
+        },
+        {
+            "author": "Лиза",
+            "text": "*Стук*",
+            "src": "arc3_5genshintaverndoor",
+            "characters": ""
+        },
+        {
+            "author": "???",
+            "text": "...",
+            "src": "arc3_5genshintaverndoor",
+            "characters": ""
+        },
+        {
+            "author": "???",
+            "text": "кто там?? опять геншинфаги?? назови пароль.",
+            "src": "arc3_5genshintaverndoor",
+            "characters": ""
+        },
+        {
+            "author": "???",
+            "text": "никита лох|никита лох|никита лох",
+            "src": "arc3_5genshintaverndoor",
+            "characters": ""
+        },
+        {
+            "author": "",
+            "text": "*дверь открывается со скрипом*",
+            "src": "arc3_5genshintaverndooropen",
+            "characters": ""
+        },
+        {
+            "author": "Сайно",
+            "text": "бы снял шляпу перед этой знакомой нам незнакомкой, но кажется сегодня я её прошляпил...",
+            "src": "arc3_5genshintaverndooropen",
+            "characters": "Cyno"
+        },
+        {
+            "author": "Фишль",
+            "text": "Принцесса осуждения фон Люфтшлосс-Нарфидорт нижайше приглашает Вас к столу, не терпя возражений. Именем Королевства Нирваны ночи приказываю присоединиться к нашему роскошному чайному пиршеству!",
+            "src": "arc3_5genshintaverndooropen",
+            "characters": "Fischl"
+        },
+        {
+            "author": "Ризли",
+            "text": "Здравствуй, Лиза, рад видеть тебя у нас!",
+            "src": "arc3_5genshintaverndooropen",
+            "characters": "Reezley"
+        },
+        {
+            "author": "Сайно",
+            "text": "Лиза, усаживайся поудобнее. У нас есть чай и шахматы, а Тигнари сегодня утром нарвал для нас клубнички.",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Cyno"
+        },
+        {
+            "author": "Лиза",
+            "text": "Спасибо большое|Никита лох (извини, никита)|ЧТООООООООООООООО (втф)",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Cyno"
+        },
+        {
+            "author": "Ризли",
+            "text": "*наливает чай*",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Reezley"
+        },
+        {
+            "author": "Ризли",
+            "text": "Добро пожаловать к чаю!",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Reezley"
+        },
+        {
+            "author": "Лиза",
+            "text": "*наклоняет голову и внимательно рассматривает свое отражение в кружке чая*",
+            "src": "arc3_5genshintavernroom",
+            "characters": "CupTea"
+        },
+        {
+            "author": "Лиза про себя",
+            "text": "Треш",
+            "src": "arc3_5genshintavernroom",
+            "characters": "CupTea"
+        },
+        {
+            "author": "Лиза про себя",
+            "text": "Опять я попала куда-то непойми куда... Ладно, по крайней мере рядом со мной приятные люди",
+            "src": "arc3_5genshintavernroom",
+            "characters": "CupTea"
+        },
+        {
+            "author": "Лиза про себя",
+            "text": "К тому же они тоже ненавидят Фурину.",
+            "src": "arc3_5genshintavernroom",
+            "characters": "CupTea"
+        },
+        {
+            "author": "Сайно",
+            "text": "как насчёт сыграть партейку в карты?",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Cyno"
+        },
+        {
+            "author": "Ризли",
+            "text": "почему бы и нет",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Reezley"
+        },
+        {
+            "author": "Фишль",
+            "text": "Её Высочество соизволит присоединиться к вашей игре, мои подданые. Но к нам должна присоединиться ещё одна особа моего ранга",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Fischl"
+        },
+        {
+            "author": "Лиза",
+            "text": "с вашего позволения, ваше Высочество|не откажусь, в такой-то компании|погнали в овер",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Fischl"
+        },
+        {
+            "author": "Сайно",
+            "text": "*разминает руки*",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Cyno"
+        },
+        {
+            "author": "Сайно",
+            "text": "*сосредоточенно глотает чай*",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Cyno"
+        },
+        {
+            "author": "Ризли",
+            "text": "*задумчиво составляет колоду*",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Reezley"
+        },
+        {
+            "author": "Фишль",
+            "text": "*возвышенное \"!!!\"*",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Fischl"
+        },
+        {
+            "author": "",
+            "text": "*следует жоское карточное рубилово*",
+            "src": "arc3_5genshintavernroom",
+            "characters": ""
+        },
+        {
+            "author": "Сайно",
+            "text": "я бы пошутил, но моё карточное лицо нешуточно разбито",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Cyno"
+        },
+        {
+            "author": "Ризли",
+            "text": "ну что же, это было ожидаемо. Спасибо за игру, Лиза!",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Reezley"
+        },
+        {
+            "author": "Фишль",
+            "text": "в этот раз принцесса соизволила позволить вам победить эту битву, но не войну!",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Fischl"
+        },
+        {
+            "author": "Лиза",
+            "text": "треш|кринж|ок",
+            "src": "arc3_5genshintcg",
+            "characters": ""
+        },
+        {
+            "author": "Лиза",
+            "text": "спасибо за игру ребята!|слиты ботики|это честь выиграть у вас, принцесса!",
+            "src": "arc3_5genshintcg",
+            "characters": ""
+        },
+        {
+            "author": "Ризли",
+            "text": "думаю, победитель заслуживает дополнительную порцию чая. Какой....",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Reezley"
+        },
+        {
+            "author": "",
+            "text": "*за дверью звуки детского смеха, возмущенные крики Дионы и взрывы*",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Reezley"
+        },
+        {
+            
+            "author": "Сайно",
+            "text": "разрывная...",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Cyno"
+        },
+        {
+            
+            "author": "Ризли",
+            "text": "о нет..",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Reezley"
+        },
+        {    
+            "author": "Лиза",
+            "text": "так всё и заканчивается",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Reezley"
+        },
+        {
+            
+            "author": "",
+            "text": "*все покрывается радиоактивным пеплом*",
+            "src": "arc3_5genshintavernroom",
+            "characters": "Exploision"
+        }
+     ]
+}
