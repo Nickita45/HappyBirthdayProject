@@ -67,7 +67,7 @@
             "characters": ""
         },
         {
-            "author": "Ренгоку",
+            "author": "???",
             "text": "НЕЕЕЕЕТ КАК Я МОГ ПРОИГРАТ.......",
             "src": "arc3_5blacktraininside",
             "characters": "EnmuHead"
@@ -76,13 +76,19 @@
             "author": "Поезд",
             "text": "*разбивается*",
             "src": "arc5_5trainoutside",
+            "characters": "Exploision"
+        },
+        {
+            "author": "Ренгоку",
+            "text": "*хватает Лизу и выносит её снаружи*",
+            "src": "arc5_5trainoutside",
             "characters": ""
         },
         {
-            "author": "Поезд",
-            "text": "*разбивается*",
+            "author": "Ренгоку",
+            "text": "Здесь ты в безопасности!",
             "src": "arc5_5traincrushed",
-            "characters": ""
+            "characters": "Rengoku"
         }
      ]
 }
