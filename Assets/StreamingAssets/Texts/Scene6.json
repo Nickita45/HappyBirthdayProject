@@ -91,10 +91,136 @@
         },
         {
             "author": "Аказа",
-            "text": "Аказа не приймет отказа! ",
+            "text": "Аказа не приймет отказа!",
             "src": "arc5_5traincrushed",
             "characters": "Akaza",
             "srcSound": "arc6_akaza6"
+        },
+		{
+            "author": "MUSICAL_GAME_PHASE1",
+            "text": "",
+            "src": "arc5_5traincrushed",
+            "characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "Ренгоку",
+            "text": "*тяжело ранен* Лиза, прости, я подвел тебя...",
+            "src": "rengoku_dying",
+            "characters": "",
+            "srcSound": "arc6_rengoku7"
+        },
+		{
+            "author": "Лиза",
+            "text": "Бездарь|Сьеби пока не сдох|Мужланы, придется брать все в свои рукиss",
+            "src": "rengoku_dying",
+            "characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "Аказа",
+            "text": " Что девченка? Ты тоже хочешь в мой тиктохаус?",
+            "src": "arc5_5traincrushed",
+            "characters": "Akaza",
+            "srcSound": "arc6_akaza7"
+        },
+		{
+            "author": "Лиза",
+            "text": "Пососи|Считаю до трех|Чудище я тебя одной левой",
+            "src": "arc5_5traincrushed",
+            "characters": "Akaza",
+            "srcSound": ""
+        },
+		{
+            "author": "MUSICAL_GAME_PHASE2",
+            "text": "",
+            "src": "arc5_5traincrushed",
+            "characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "Аказа",
+            "text": "Ты серьезно думаешь что способна сразиться c таким как я?",
+            "src": "arc5_5traincrushed",
+            "characters": "Akaza",
+            "srcSound": "arc6_akaza8"
+        },
+		{
+            "author": "MUSICAL_GAME_PHASE3",
+            "text": "",
+            "src": "arc5_5traincrushed",
+            "characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "Аказа",
+            "text": "Эта сила... Она во много раз превышает мою! Что ты такое...!?",
+            "src": "arc5_5traincrushed",
+            "characters": "Akaza",
+            "srcSound": "arc6_akaza9"
+        },
+		{
+            "author": "MUSICAL_GAME_PHASE4",
+            "text": "",
+            "src": "arc5_5traincrushed",
+            "characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "Лиза",
+            "text": "ЗА РЕНГОКУУУУУУУУУУУУУУУУУУУУУУУ!!!!!",
+            "src": "redscreen",
+			"characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "MUSICAL_GAME_RESULT",
+            "text": "",
+            "src": "redscreen",
+            "characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "Лиза",
+            "text": "Stand proud Akaza...",
+            "src": "redscreen",
+			"characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "Лиза",
+            "text": "You are strong",
+            "src": "redscreen",
+			"characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "Ренгоку",
+            "text": "*харкает кровью*",
+            "src": "s",
+            "characters": "rengoku_dying",
+            "srcSound": "arc6_rengoku8"
+        },
+		{
+            "author": "Лиза",
+            "text": "Пиздец|Ты в порядке?|Вставай дура",
+            "src": "rengoku_dying",
+            "characters": "",
+            "srcSound": ""
+        },
+		{
+            "author": "Ренгоку",
+            "text": "*встает*: Я буду в порядке. И все благодаря тебе, Лиза, таинственная незнакомка...",
+            "src": "rengoku_injured",
+            "characters": "",
+            "srcSound": "arc6_rengoku9"
+        },
+		{
+            "author": "Ренгоку",
+            "text": "Что ж... Поехали в Одессу?",
+            "src": "arc5_5traincrushed",
+            "characters": "Rengoku",
+            "srcSound": "arc6_rengoku10"
         }
      ]
 }
