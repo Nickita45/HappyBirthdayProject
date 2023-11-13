@@ -9,14 +9,14 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     private int currentScenarios = 0;
-    private string[] nameScenarios = {"Scene1","Scene2","Scene3Borik","Scene3BorikAfter","Scene4Dmitry","Scene4DmitryAfter","Scene5MaksymIlya","Scene5MaksymIlyaAfter","Scene6","Credits"};
-    //private string[] nameScenarios = {"Scene4DmitryAfter","Credits"};
-    
+    private string[] nameScenarios = { "Scene1", "Scene2", "Scene3Borik", "Scene3BorikAfter", "Scene4Dmitry", "Scene4DmitryAfter", "Scene5MaksymIlya", "Scene5MaksymIlyaAfter", "Scene6", "Credits" };
+
     private static GameManager _instance;
     public static GameManager Instance => _instance;
-    public GameObject credits, maingame, menu;
+    public GameObject credits, maingame, menu, dialogue, musical;
 
     public TextPlayers textPlayers;
+    public MusicalGame musicalGame;
     public TMP_InputField inputField;
     // Start is called before the first frame update
     // Update is called once per frame
@@ -31,9 +31,19 @@ public class GameManager : MonoBehaviour
         inputField.onEndEdit.AddListener(new UnityAction<string>(StartGame));
         // UpdateScenarios();
     }
+
+    void Start()
+    {
+        credits.SetActive(false);
+        menu.SetActive(true);
+        maingame.SetActive(false);
+        dialogue.SetActive(true);
+        musical.SetActive(false);
+    }
+
     public void UpdateScenarios()
     {
-        if(nameScenarios[currentScenarios] == "Credits")
+        if (nameScenarios[currentScenarios] == "Credits")
         {
             //final 
             credits.SetActive(true);
@@ -52,7 +62,7 @@ public class GameManager : MonoBehaviour
 
         maingame.SetActive(true);
 
-        currentScenarios = FindStringIndex(nameScenarios,scene);
+        currentScenarios = FindStringIndex(nameScenarios, scene);
         UpdateScenarios();
     }
     static int FindStringIndex(string[] array, string target)
