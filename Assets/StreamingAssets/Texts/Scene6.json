@@ -183,22 +183,22 @@
 		{
             "author": "Лиза",
             "text": "Stand proud Akaza...",
-            "src": "redscreen",
-			"characters": "",
+            "src": "lisa1",
+			"characters": "lisa1",
             "srcSound": ""
         },
 		{
             "author": "Лиза",
             "text": "You are strong",
-            "src": "redscreen",
-			"characters": "",
+            "src": "lisa1",
+			"characters": "lisa1",
             "srcSound": ""
         },
 		{
             "author": "Ренгоку",
             "text": "*харкает кровью*",
-            "src": "s",
-            "characters": "rengoku_dying",
+            "src": "rengoku_dying",
+            "characters": "",
             "srcSound": "arc6_rengoku8"
         },
 		{
